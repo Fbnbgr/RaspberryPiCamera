@@ -73,6 +73,7 @@ nano templates/index.html
 ```
 
 ## Autostart
+- service will always restart upon restart of the pi
 ### Shell Commands
 ```
 sudo nano /etc/systemd/system/camstream.service
@@ -108,5 +109,3 @@ sudo systemctl status
 - [Taiscale](https://login.tailscale.com/admin/machines)
 - allows authenticated devices to connect to each other and be seen
 - login with github
-
-
