@@ -5,10 +5,10 @@ Code for setting up a Camera and video stream to the web with a raspberry pi zer
 Python, Flask, libcamera
 
 ## Components
-[Raspberry Pi Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w) + SD-Card
-[Raspberry Pi Camera Module 8MP v2](https://www.berrybase.de/raspberry-pi-camera-module-8mp-v2)
-[Gehäuse](https://www.berrybase.de/offizielles-gehaeuse-fuer-raspberry-pi-zero-rot-weiss) - important for the included adapter to connect the camera to the pi zero
-[Kamera-Mount](https://www.berrybase.de/mount-fuer-raspberry-pi-kameras-1-4-stativgewinde-inkl.-mini-stativ)
+- [Raspberry Pi Zero 2 W](https://www.berrybase.de/raspberry-pi-zero-2-w) + SD-Card
+- [Raspberry Pi Camera Module 8MP v2](https://www.berrybase.de/raspberry-pi-camera-module-8mp-v2)
+- [Gehäuse](https://www.berrybase.de/offizielles-gehaeuse-fuer-raspberry-pi-zero-rot-weiss) - important for the included adapter to connect the camera to the pi zero
+- [Kamera-Mount](https://www.berrybase.de/mount-fuer-raspberry-pi-kameras-1-4-stativgewinde-inkl.-mini-stativ)
 
 ## Procedure
 - flashing the sd-card with the software via raspberry imager
